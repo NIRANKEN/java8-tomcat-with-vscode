@@ -1,0 +1,11 @@
+{
+  "java.home": "/usr/lib/jvm/java-11-amazon-corretto",
+  "java.configuration.runtimes": [
+    {
+      "default": true,
+      "name": "corretto-java8",
+      "path": "/usr/lib/jvm/java-1.8.0-amazon-corretto"
+    },
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
